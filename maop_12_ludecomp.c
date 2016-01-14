@@ -10,8 +10,8 @@ Author: Purnendu Kumar, MS, IIT Madras
 Date: 28/01/2015
 Tested ok: compiled with (minGW, Code::Blocks 13.12, windows 8.1) and found perfectly working on 04/06/2015
 
-Property of www.satakshi.in/code_vault/c_vault
-For any issues: write to satakshi.india@gmail.com
+Property of engineeringxd.com
+For any issues: write to purnenduk90@gmail.com
 
 */
 #include<stdio.h>
