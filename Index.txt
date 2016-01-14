@@ -1,3 +1,10 @@
+Matrix Operations:
+
+1. Write a program to take input and display 3x3 matrix. :
+2. Determine size of given matrix in a data file. :
+3. Addition/subtraction/multiplication of two matrix input as data files. :
+4. Decompose a square matrix in multiplication of a lower triangular and an upper triangular matrix. :maop_4_ludecomp.c
+
 Electronics:
 
 1. Program to calculate the width, impedance and losses of micro-strip on a PCB board for proper signal integrity, (Program should run in a loop unless exited) : elec_1_microstrip.c
