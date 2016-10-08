@@ -215,7 +215,7 @@
 #Electronics:
 
 1. Program to calculate the width, impedance and losses of micro-strip on a PCB board for proper signal integrity, (Program should run in a loop unless exited).
-	* elec_1_microstrip.c
+	* [elec_1_microstrip.c]{https://github.com/PurnenduK90/C-Basic/blob/master/electronics/elec_1_microstrip.c}
 
 #Miscellaneous:
 
