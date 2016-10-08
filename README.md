@@ -1,7 +1,7 @@
-# C_Programs
+# C-Basic
 Contains lots of basic C programs, can be used to learn practice or interview prepration
 
-Series: Learn C by examples <http://engineeringxd.com>
+Series: Learn C by examples <http://scel.satakshi.in>
 
 (A collection of various C programs that are used frequently in academic environment as well as interview). Refer to Index file to find out the problem statement and name of its solution program. Questions are categorized in different groups but they are not arranged in any manner, I keep adding questions continuously hence one may find a question with lower difficulty level after a difficult question.
 
