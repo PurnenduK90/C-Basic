@@ -103,10 +103,10 @@
 5. Write a c program to find out transport of a matrix.
 6. Write a c program for scalar multiplication of matrix.
 7. C program to find inverse of a matrix
-10. Strassen's matrix multiplication program in c
-11. C program to find determinant of a matrix
-12. Decompose a square matrix in multiplication of a lower triangular and an upper triangular matrix.
-	* [maop_12_ludecomp.c](https://github.com/PurnenduK90/C-Basic/blob/master/matrix_operation/maop_12_ludecomp.c)
+8. Strassen's matrix multiplication program in c
+9. C program to find determinant of a matrix
+10. Decompose a square matrix in multiplication of a lower triangular and an upper triangular matrix.
+	* [maop_10_ludecomp.c](https://github.com/PurnenduK90/C-Basic/blob/master/matrix_operation/maop_10_ludecomp.c)
 
 #File
 
