@@ -105,7 +105,8 @@
 7. C program to find inverse of a matrix
 10. Strassen's matrix multiplication program in c
 11. C program to find determinant of a matrix
-12. Decompose a square matrix in multiplication of a lower triangular and an upper triangular matrix. :maop_12_ludecomp.c
+12. Decompose a square matrix in multiplication of a lower triangular and an upper triangular matrix.
+	* [maop_12_ludecomp.c](https://github.com/PurnenduK90/C-Basic/blob/master/matrix_operation/maop_12_ludecomp.c)
 
 #File
 
