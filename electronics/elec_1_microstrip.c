@@ -113,8 +113,8 @@ main(void)
         printf("\nAttenuation due to di-electric loss = %f dB/cm\n", Ad);//1cm = 393.7 mil
         Ac=Rs*8.686/(Z*W*0.00254);//equation 3.199 also it is converted to db/cm hence multiplied by 8.686, W is converted to cm.
         printf("\nAttenuation due to conductor loss = %f dB/cm\n", Ac);
-
-        printf("\nPhase delay is equal to (Propagation constant * length of strip), where phase delay is in radians and length in meters.\n");
+		printf("\nDelay = %lf pS/cm.\n", 10000000000/Vp);
+        printf("\nPhase delay = %lf radians/cm.\n", beta/100);
 
     }
     else if (decision=='N') goto end;
@@ -132,7 +132,7 @@ main(void)
         printf("\nyou have entered wrong value, retry\n");
         goto end;
     }
-    else printf("\n----------------------------------------------------------------------\nthanks for using the program! computation has been completed.\n\nPlease visit 'engineeringxd.com' for more program like this.\n----------------------------------------------------------------------\nPress any key to exit.");
+    else printf("\n----------------------------------------------------------------------\nthanks for using the program! computation has been completed.\n\nPlease visit 'scel.satakshi.in' for more program like this.\n----------------------------------------------------------------------\nPress any key to exit.");
 
    getch();
    return 0;
