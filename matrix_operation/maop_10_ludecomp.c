@@ -1,7 +1,7 @@
 /*
 LU Decomposition of square matrix
 theory: P*A=L*U
--->Permutation is done for getting most suited elements at pivot position.
+-->Permutation is done to get most suited elements at pivot position.
 -->short column 1 and swap the row with largest element in column 1 with row 1
 -->short column 2 excluding row 1 and swap the row with largest element in column 2 with row 2.....
 -->Do the row wise reversible operations and fill the lower triangular matrix at same time.
